@@ -1,7 +1,9 @@
-- Hi :D, my name is Scott
-- Currently, I'm developing games, however I wish to take my engineering skills higher and apply them in fields such as bionics
-- And recently, I have moved away from Unity for 2D game development, and have started using Godot (would really reccomend
+- Hi :D, my name is Scott Cook
+- Currently I'm just making videogames, but I'm working with the goal of taking my skills to more prestigious pastures - such as the fields of bionics and robotics.
+- Check out my itch.io & youtube links if you're curious regarding specifics
 
+Thank you for checking this page out, and have a lovely day 
+:)
 
 <!---
 ScoutLord219/ScoutLord219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
